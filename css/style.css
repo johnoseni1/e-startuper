@@ -1,8 +1,4 @@
-/*--Author: W3Layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
- --*/
+
 
 body {
     margin: 0;
@@ -115,7 +111,7 @@ a.move-top span {
 
 /* header */
 header {
-    background: #0083ff;
+    background: #fb9735;
 }
 
 /* navigation */
@@ -543,7 +539,7 @@ input.form-control.bg-theme {
 }
 
 .w3ls-btn {
-    background: #0083ff;
+    background: #fb9735;
     color: #fff;
     padding: 5px 43px;
     display: block;
@@ -567,7 +563,7 @@ input.form-control.bg-theme {
 
 .cpy-right {
     padding: 1vw;
-    background: #0083ff;
+    background: #fb9735;
 }
 
 .cpy-right p {
@@ -581,7 +577,7 @@ input.form-control.bg-theme {
 /* banner */
 
 .banner {
-    background: url(../images/banner.jpg) center no-repeat;
+    background: url(../images/hack\ 11.JPG) center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -648,7 +644,7 @@ button.btn.bg-theme {
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 14px;
-    background: #0083ff;
+    background: #fb9735;
     border: 1.5px solid #ffffff;
     text-transform: uppercase;
 }
@@ -664,24 +660,24 @@ button.btn.wthree-link-bnr:hover {
 }
 
 p.bnr-txt {
-    width: 50%;
+    width: 70%;
     color: #fff;
-    font-size: 1.1em;
+    font-size: 2.1em;
     margin: 0.5em 0 1.2em;
     line-height: 2;
 }
 
 button.wthree-link-bnr:hover {
-    background: #0083ff;
+    background: #fb9735;
     color: #fff;
 }
 
 h3.home-banner-w3 {
     color: #fff;
-    font-size: 2.5em;
-    line-height: 1.4;
+    font-size: 6em;
+    line-height: 1;
     text-transform: capitalize;
-    width: 50%;
+    width: 80%;
     font-weight: 700;
     word-spacing: 4px;
 }
@@ -715,7 +711,7 @@ li.breadcrumb-item a {
 }
 
 h4.w3pvt-title {
-    color: #0083ff;
+    color: #fb9735;
     text-transform: capitalize;
     font-size: 2.3em;
     font-weight: 600;
@@ -749,10 +745,10 @@ span.sub-title {
     height: 80px;
     border: solid;
     border-width: 3px;
-    border-top-color: #0087fc;
+    border-top-color: #fb9735;
     border-bottom-color: #00f0ac;
     border-left-color: #00efac;
-    border-right-color: #0083ff;
+    border-right-color: #fb9735;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -762,7 +758,7 @@ span.sub-title {
 
 .abt-icon span {
     font-size: 1.7em;
-    color: #0083ff;
+    color: #fb9735;
 }
 
 .abt-txt h4 {
@@ -842,7 +838,7 @@ h5.blog-title a {
 }
 
 blog-btn:hover {
-    color: #0083ff;
+    color: #fb9735;
 }
 
 .card-body {
@@ -851,7 +847,7 @@ blog-btn:hover {
 
 a.blog_link {
     display: inline-block;
-    color: #0083ff;
+    color: #fb9735;
     margin-top: 1em;
     font-weight: 600;
     background: #fff;
@@ -978,7 +974,7 @@ form.register-wthree .form-control {
 
 #contact iframe {
     width: 100%;
-    border: 3px solid #0083ff;
+    border: 3px solid #fb9735;
     padding: 1vw;
     min-height: 500px;
 }
@@ -1018,7 +1014,7 @@ h5.cont-form {
     text-transform: capitalize;
     font-size: 1.7em;
     font-family: 'Lato', sans-serif;
-    color: #0083ff;
+    color: #fb9735;
     font-weight: 600;
 }
 
@@ -1155,7 +1151,7 @@ h5.cont-form {
 .testi-desc span {
     font-size: 2em;
     margin: 15px;
-    color: #0083ff;
+    color: #fb9735;
 }
 
 .testi-text p span {
@@ -1174,7 +1170,7 @@ h5.cont-form {
 
 .carousel-indicators li {
     background-color: #000;
-    border: 1px solid #0083ff;
+    border: 1px solid #fb9735;
     cursor: pointer;
 }
 
@@ -1211,7 +1207,7 @@ h6.main-title-w3pvt {
     text-transform: uppercase;
     font-weight: 600;
     margin-bottom: 1em;
-    color: #0083ff;
+    color: #fb9735;
     letter-spacing: 0.5px;
 }
 
@@ -1285,7 +1281,7 @@ h6.main-title-w3pvt {
 }
 
 .text-theme {
-    color: #0083ff;
+    color: #fb9735;
 }
 
 .footer h2 a {
@@ -1350,7 +1346,7 @@ h4.footer-title {
 }
 
 .fv3-contact p a:hover {
-    color: #0083ff;
+    color: #fb9735;
 }
 
 .list-w3pvtits li a {
